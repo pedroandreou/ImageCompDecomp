@@ -13,7 +13,6 @@ Run the [Dashboard.m file](https://github.com/pedroandreou/ImageCompDecomp/blob/
 More info about my project can be found in my [portfolio](https://pedroandreou.github.io/#ImageCompDecomp)
 
 ## Author  
-## Author  
 <a href="https://www.linkedin.com/in/petrosandreou80/">
   <img align="center" src="https://img.shields.io/badge/Petros LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
